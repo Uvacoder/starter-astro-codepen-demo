@@ -1,2 +1,1 @@
-# astro-codepen-rough
-Created with CodeSandbox
+Playing around with a CodePen embed component for Astro
